@@ -6,6 +6,7 @@ data/PFP/*.jpeg
 data/PFP/*.png
 static/photos/*.jpeg
 static/photos/*.png
+data/embeddings.npy
 .env
 venv/
 
