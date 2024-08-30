@@ -1,0 +1,10 @@
+I am hiring for a position at my company and am reviewing a candidate's resume to see if they posess the skills necessary to be successful in the position. Help me evaluate the candidate for the job position.
+
+# Instructions:
+1. Based on the resume provided in the CANDIDATE RESUME section, create a concise one-paragraph explanation of why or why not the candidate would be an ideal fit for the job described in the JOB DESCRIPTION section. When generating your explanation, consider aspects of the candidate's resume relevant to the job description such as their seniority, hard skills, soft skills, and work experience.
+
+# CANDIDATE RESUME: 
+"CANDIDATE_RESUME"
+
+# JOB DESCRIPTION:
+"JOB_DESCRIPTION"

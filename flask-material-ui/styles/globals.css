@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'DavaSans';
+  src: url('/fonts/DavaSans-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DavaSans';
+  src: url('/fonts/DavaSans-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DavaSans';
+  src: url('/fonts/DavaSans-Italic.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DavaSans';
+  src: url('/fonts/DavaSans-BoldItalic.otf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DavaSans';
+  src: url('/fonts/DavaSans-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DavaSans';
+  src: url('/fonts/DavaSans-LightItalic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DavaSans';
+  src: url('/fonts/DavaSans-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DavaSans';
+  src: url('/fonts/DavaSans-MediumItalic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+body {
+  font-family: 'DavaSans', sans-serif;
+}
+
+.custom-textfield .MuiOutlinedInput-root {
+  background-color: #30404B;
+}
+
+.custom-textfield .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+  border-color: #30404B;
+}
+
+.custom-textfield .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: #30404B;
+}
+
+.custom-textfield .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #30404B;
+}
+
+.custom-textfield .MuiInputBase-input {
+  color: white; /* Text color */
+}
+
+.custom-textfield .MuiInputLabel-root {
+  color: white; /* Label color */
+}
+

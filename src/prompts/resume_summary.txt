@@ -1,0 +1,7 @@
+# Instructions:
+1. Summarize the resume provided in the "Candidate Resume" section in 3 paragraphs or less.
+2. In the summary, make sure to include specific details about their career such as job titles, what type of work they specialize in, exposure to specific industries, years of experience, core skills and qualifications, and any significant career achievements. 
+
+# Candidate Resume:
+"CANDIDATE_RESUME"
+

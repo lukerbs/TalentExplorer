@@ -1,0 +1,15 @@
+I am hiring for a position at my company and am reviewing a candidate's resume to see if they posess the skills necessary to be successful in the position. Help me identify which skills the job candidate has that matches the requirements of the job description.
+
+# Instructions:
+1. Based on the resume provided in the CANDIDATE RESUME section, provide the 5 most relevant qualifications the candidate has that makes them a great fit for the job described in the JOB DESCRIPTION section. 
+2. Your response should be in json format like this: {'candidate_qualifications': [...,]}  
+3. Only return the json dictionary with the list of qualifications the candidate has and nothing else. 
+4. In the list, only include relevant qualifications that are EXPLICITLY referenced in the candidate's resume.
+5. Each qualification should be paraphrased or shortened to no more than 5 words.
+
+# CANDIDATE RESUME: 
+"CANDIDATE_RESUME"
+
+# JOB DESCRIPTION:
+"JOB_DESCRIPTION"
+

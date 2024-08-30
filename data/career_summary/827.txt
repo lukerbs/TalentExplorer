@@ -1,0 +1,5 @@
+The candidate possesses a strong background in software development with over 4 years and 6 months of experience in the field. They started their career as an Intern at MikroElektronika in Serbia, where they worked on a project involving the conversion of ELF to DBG format. Following this, they transitioned to RT-RK as an Embedded Software Engineer, gaining valuable experience for 2 years and 10 months before moving on to Endava.
+
+At Endava, the candidate has showcased their expertise as a Developer for 2 years and 2 months before being promoted to Senior Developer, a role they have held for 2 years and 5 months to date. This progression demonstrates their growth and contribution within the organization, highlighting their technical skills and capabilities in software development. 
+
+With exposure to diverse industries and roles in different companies, the candidate has developed core skills in software development, embedded systems, and debugging. They have demonstrated a strong work ethic and dedication to their craft, as evidenced by their significant career achievements and continuous learning and progression in the field.

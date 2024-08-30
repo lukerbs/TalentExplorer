@@ -1,0 +1,27 @@
+
+# Solutions Architect, Serverless, Application Modernization
+The next great evolution of cloud computing is serverless. Are you passionate about the cloud? Do you want to help mold the future of how customers build amazing applications with AWS? Are you a deeply technical individual who is looking to shape the future of serverless technologies? If you have the right blend of passion, enthusiasm, customer advocacy, curiosity and creativity, you may just be right to join our Specialist Solution Architecture team, focusing on serverless technologies.
+
+Increasingly, developers are moving to a "cloud native" application development approach. Serverless Computing allows you to build and run applications and services without thinking about infrastructure or server based operations. With serverless computing, your application still runs on servers, but all the server management is done by AWS. At the core of serverless computing is AWS Lambda and API Gateway. AWS Lambda lets you run your code without provisioning or managing servers. With Lambda, you can run code for virtually any type of application or backend service, and it takes care of everything required to run and scale your code with high availability. Amazon API Gateway is a fully managed API service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. Additionally, API Gateway provides companies with an easy way to build/integrate their APIs with the AWS Marketplace and start monetizing their processes and data. These powerful capabilities build on the wider serverless ecosystem of tools including Amazon DynamoDB, Amazon Cognito, AWS Step Functions, Amazon SQS and SNS, Amazon Kinesis, AWS IoT, Amazon S3, etc.
+
+## Qualifications
+•
+5+ years of design, implementation, or consulting in applications and infrastructures experience
+•
+5+ years of specific technology domain areas (e.g. software development, cloud computing, systems engineering, infrastructure, security, networking, data & analytics) experience
+•
+5+ years experience in working with customers who are deploying cloud solutions
+•
+1+ years experience with event driven architecture or microservices
+•
+1+ years hands on experience with Serverless technologies or working with technologies such as: Lambda, API Gateway, SNS, SQS, MQ, and/or Step Functions
+•
+AWS Solutions Architect Professional
+•
+Ability to work with training development and delivery both internally and externally
+
+## Key job responsibilities
+• Design Customer Solutions - Collaborate with Account Managers, Solutions Architects and support teams to help customers learn and use AWS serverless services.
+• Devise Strategy - Work with Account Managers and Solutions Architects to define a strategy for engaging key accounts.
+• Thought Leadership – Provide global thought leadership on the serverless application lifecycle and how AWS Services can benefit customers. This takes the form of contribution to external publications such as AWS Blogs, whitepapers and reference architectures, as well as the internal training of Solutions Architects, Professional Services Consultants and Technical Account Managers.
+• Capture and share best-practice knowledge amongst both our customers, and our worldwide solution architect community

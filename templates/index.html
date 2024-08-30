@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Job Description Similarity Search</title>
+    <style>
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .search-form {
+            margin-bottom: 20px;
+        }
+        .results {
+            max-height: 400px;
+            overflow-y: scroll;
+            border: 1px solid #ddd;
+            padding: 10px;
+        }
+        .result {
+            border-bottom: 1px solid #ddd;
+            padding: 10px 0;
+            display: flex;
+            align-items: center;
+        }
+        .result img {
+            max-width: 50px;
+            max-height: 50px;
+            margin-right: 10px;
+        }
+        .explanation {
+            margin-top: 10px;
+            background-color: #f9f9f9;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('.result-name').on('click', function() {
+                var id = $(this).data('id');
+                var jobDescription = $("#job-description").val(); // Get the job description from a hidden input
+
+                $.ajax({
+                    url: "{{ url_for('explain') }}",
+                    type: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify({ id: id, job_description: jobDescription }),
+                    success: function(response) {
+                        var explanationDiv = $('<div class="explanation"></div>').text(response.explanation);
+                        $(`[data-id="${id}"]`).parent().append(explanationDiv);
+                    },
+                    error: function(error) {
+                        console.log("Error:", error);
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Job Description Similarity Search</h1>
+        <form class="search-form" method="POST">
+            <textarea name="job_description" rows="4" cols="50" placeholder="Paste job description here..."></textarea>
+            <br>
+            <button type="submit">Search</button>
+        </form>
+        {% if job_description %}
+        <input type="hidden" id="job-description" value="{{ job_description }}">
+        {% endif %}
+        <div class="results">
+            {% for resume in resumes %}
+            <div class="result">
+                <img src="{{ url_for('static', filename='photos/' ~ resume.photo) }}" alt="Photo of {{ resume.name }}">
+                <div>
+                    <strong class="result-name" data-id="{{ resume.id }}" data-name="{{ resume.name }}"><a href="#">{{ resume.name }}</a></strong>
+                    <p>{{ resume.resume }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

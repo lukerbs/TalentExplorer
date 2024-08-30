@@ -1,0 +1,764 @@
+{
+    "employees": [
+        {
+            "id": "0",
+            "profile": "https://www.linkedin.com/in/brace-larsen-engineer",
+            "description": "./data/experience/0.txt",
+            "job_title": "Head of Architecture - North America",
+            "name": "Brace Larsen",
+            "pfp": "./data/PFP/0.jpeg"
+        },
+        {
+            "id": "1",
+            "profile": "https://www.linkedin.com/in/williamdunston",
+            "description": "./data/experience/1.txt",
+            "job_title": "Full-stack Developer",
+            "name": "William Dunston",
+            "pfp": "./data/PFP/1.jpeg"
+        },
+        {
+            "id": "2",
+            "profile": "https://www.linkedin.com/in/michelle-tufano",
+            "description": "./data/experience/2.txt",
+            "job_title": "Product Manager",
+            "name": "Michelle Tufano",
+            "pfp": "./data/PFP/2.jpeg"
+        },
+        {
+            "id": "3",
+            "profile": "https://www.linkedin.com/in/monica-mih%C3%A3escu-99829218",
+            "description": "./data/experience/3.txt",
+            "job_title": "Program Delivery Manager",
+            "name": "Monica Mih\u00e3escu",
+            "pfp": "./data/PFP/3.jpeg"
+        },
+        {
+            "id": "4",
+            "profile": "https://www.linkedin.com/in/srimathi-srinivasanutaustin",
+            "description": "./data/experience/4.txt",
+            "job_title": "Product Strategy/Principal Industry Consultant",
+            "name": "Srimathi Srinivasan",
+            "pfp": "./data/PFP/4.jpeg"
+        },
+        {
+            "id": "5",
+            "profile": "https://www.linkedin.com/in/stevensarcinella",
+            "description": "./data/experience/5.txt",
+            "job_title": "Senior Software Developer | Consultant",
+            "name": "Steven Sarcinella",
+            "pfp": "./data/PFP/5.jpeg"
+        },
+        {
+            "id": "6",
+            "profile": "https://www.linkedin.com/in/taylorthrasher",
+            "description": "./data/experience/6.txt",
+            "job_title": "Data Architect",
+            "name": "Taylor Thrasher",
+            "pfp": "./data/PFP/6.jpeg"
+        },
+        {
+            "id": "7",
+            "profile": "https://www.linkedin.com/in/tamigill",
+            "description": "./data/experience/7.txt",
+            "job_title": "Head of Development",
+            "name": "Tami Gill",
+            "pfp": "./data/PFP/7.jpeg"
+        },
+        {
+            "id": "8",
+            "profile": "https://www.linkedin.com/in/1-929-5-albert",
+            "description": "./data/experience/8.txt",
+            "job_title": "Project Management Consultant",
+            "name": "Albert L.",
+            "pfp": "./data/PFP/8.jpeg"
+        },
+        {
+            "id": "9",
+            "profile": "https://www.linkedin.com/in/nikkiniemczycki",
+            "description": "./data/experience/9.txt",
+            "job_title": "Senior Talent Acquisition Lead, North America",
+            "name": "Nikki Niemczycki",
+            "pfp": "./data/PFP/9.jpeg"
+        },
+        {
+            "id": "10",
+            "profile": "https://www.linkedin.com/in/priyankasehverma",
+            "description": "./data/experience/10.txt",
+            "job_title": "Product Owner, Transportation & Logistics",
+            "name": "Priyanka S. Verma",
+            "pfp": "./data/PFP/10.jpeg"
+        },
+        {
+            "id": "11",
+            "profile": "https://www.linkedin.com/in/rachellhernandez",
+            "description": "./data/experience/11.txt",
+            "job_title": "Head of Project Management & Analysis",
+            "name": "Rachel (Taylor) Hernandez",
+            "pfp": "./data/PFP/11.jpeg"
+        },
+        {
+            "id": "12",
+            "profile": "https://www.linkedin.com/in/rebecca-hunter-8bb9744",
+            "description": "./data/experience/12.txt",
+            "job_title": "Development Consultant",
+            "name": "Rebecca Hunter",
+            "pfp": "./data/PFP/12.jpeg"
+        },
+        {
+            "id": "13",
+            "profile": "https://www.linkedin.com/in/holleyanstatt",
+            "description": "./data/experience/13.txt",
+            "job_title": "M&A Integration Program Manager - Americas",
+            "name": "Holley Anstatt",
+            "pfp": "./data/PFP/13.jpeg"
+        },
+        {
+            "id": "14",
+            "profile": "https://www.linkedin.com/in/jason-rideout-06821b15",
+            "description": "./data/experience/14.txt",
+            "job_title": "Director; AGU Lead - Transportation and Logistics",
+            "name": "Jason Rideout",
+            "pfp": "./data/PFP/14.jpeg"
+        },
+        {
+            "id": "15",
+            "profile": "https://www.linkedin.com/in/katmarieperez",
+            "description": "./data/experience/15.txt",
+            "job_title": "Head of User Experience & Research",
+            "name": "Kat Perez",
+            "pfp": "./data/PFP/15.jpeg"
+        },
+        {
+            "id": "16",
+            "profile": "https://www.linkedin.com/in/kimberly-teague-tibbetts",
+            "description": "./data/experience/16.txt",
+            "job_title": "Principal Industry Consultant",
+            "name": "Kimberly Teague-Tibbetts",
+            "pfp": "./data/PFP/16.jpeg"
+        },
+        {
+            "id": "17",
+            "profile": "https://www.linkedin.com/in/adam-dezsi",
+            "description": "./data/experience/17.txt",
+            "job_title": "Software Engineer",
+            "name": "Adam Dezsi",
+            "pfp": "./data/PFP/17.jpeg"
+        },
+        {
+            "id": "18",
+            "profile": "https://www.linkedin.com/in/abigail-devries-9734ba190",
+            "description": "./data/experience/18.txt",
+            "job_title": "Software Developer",
+            "name": "Abigail DeVries",
+            "pfp": "./data/PFP/18.jpeg"
+        },
+        {
+            "id": "19",
+            "profile": "https://www.linkedin.com/in/alicia-a-cristini-45ba1987",
+            "description": "./data/experience/19.txt",
+            "job_title": "Head of Learning and Organization Development, North America",
+            "name": "Alicia A. Cristini",
+            "pfp": "./data/PFP/19.jpeg"
+        },
+        {
+            "id": "20",
+            "profile": "https://www.linkedin.com/in/han-zhang-01",
+            "description": "./data/experience/20.txt",
+            "job_title": "Application Architect / Design Lead",
+            "name": "Han Zhang",
+            "pfp": "./data/PFP/20.jpeg"
+        },
+        {
+            "id": "21",
+            "profile": "https://www.linkedin.com/in/shelly-franke-2171646",
+            "description": "./data/experience/21.txt",
+            "job_title": "Senior Consultant Financial Services",
+            "name": "Shelly Franke",
+            "pfp": "./data/PFP/21.jpeg"
+        },
+        {
+            "id": "22",
+            "profile": "https://www.linkedin.com/in/cliffpyles",
+            "description": "./data/experience/22.txt",
+            "job_title": "Principal Engineering Consultant",
+            "name": "Cliff Pyles",
+            "pfp": "./data/PFP/22.jpeg"
+        },
+        {
+            "id": "23",
+            "profile": "https://www.linkedin.com/in/ryan-m-8411a1128",
+            "description": "./data/experience/23.txt",
+            "job_title": "Onsite Technical Lead: Americas",
+            "name": "Ryan McCurrach",
+            "pfp": "./data/PFP/23.jpeg"
+        },
+        {
+            "id": "24",
+            "profile": "https://www.linkedin.com/in/garystorey655",
+            "description": "./data/experience/24.txt",
+            "job_title": "Development Consultant",
+            "name": "Gary Storey",
+            "pfp": "./data/PFP/24.jpeg"
+        },
+        {
+            "id": "25",
+            "profile": "https://www.linkedin.com/in/nicole-mcintyre-ctp-78521012",
+            "description": "./data/experience/25.txt",
+            "job_title": "Senior Industry Consultant",
+            "name": "Nicole McIntyre, CTP",
+            "pfp": "./data/PFP/25.jpeg"
+        },
+        {
+            "id": "26",
+            "profile": "https://www.linkedin.com/in/robert-john-aa9226a",
+            "description": "./data/experience/26.txt",
+            "job_title": "Sr Consulting Manager-Product Strategy-Banking, Financial Services and Payments",
+            "name": "Robert John",
+            "pfp": "./data/PFP/26.jpeg"
+        },
+        {
+            "id": "27",
+            "profile": "https://www.linkedin.com/in/jahnsen",
+            "description": "./data/experience/27.txt",
+            "job_title": "Data Annotation Supervisor",
+            "name": "Seth Jahnsen",
+            "pfp": "./data/PFP/27.jpeg"
+        },
+        {
+            "id": "28",
+            "profile": "https://www.linkedin.com/in/nhernan992",
+            "description": "./data/experience/28.txt",
+            "job_title": "Head of Talent Acquisition, North America",
+            "name": "Nick Hernandez",
+            "pfp": "./data/PFP/28.jpeg"
+        },
+        {
+            "id": "29",
+            "profile": "https://www.linkedin.com/in/zoya-lieberman-mba-ctp-5aa6851",
+            "description": "./data/experience/29.txt",
+            "job_title": "Senior Industry Consultant",
+            "name": "Zoya Lieberman, MBA, CTP",
+            "pfp": "./data/PFP/29.jpeg"
+        },
+        {
+            "id": "30",
+            "profile": "https://www.linkedin.com/in/jacob-weinman",
+            "description": "./data/experience/30.txt",
+            "job_title": "Business Analyst",
+            "name": "Jacob Weinman",
+            "pfp": "./data/PFP/30.jpeg"
+        },
+        {
+            "id": "31",
+            "profile": "https://www.linkedin.com/in/vespera-palmares",
+            "description": "./data/experience/31.txt",
+            "job_title": "UX Designer",
+            "name": "Vespera Palmares",
+            "pfp": "./data/PFP/31.jpeg"
+        },
+        {
+            "id": "32",
+            "profile": "https://www.linkedin.com/in/michael-beranek-24a2044",
+            "description": "./data/experience/32.txt",
+            "job_title": "Senior Software Engineer",
+            "name": "Michael Beranek",
+            "pfp": "./data/PFP/32.jpeg"
+        },
+        {
+            "id": "33",
+            "profile": "https://www.linkedin.com/in/rob-lewis-443968aa",
+            "description": "./data/experience/33.txt",
+            "job_title": "Product Owner",
+            "name": "Rob Lewis",
+            "pfp": "./data/PFP/33.jpeg"
+        },
+        {
+            "id": "34",
+            "profile": "https://www.linkedin.com/in/tamera-tibbatts-77319364",
+            "description": "./data/experience/34.txt",
+            "job_title": "Senior Industry Consultant",
+            "name": "Tamera Tibbatts",
+            "pfp": "./data/PFP/34.jpeg"
+        },
+        {
+            "id": "35",
+            "profile": "https://www.linkedin.com/in/joshua-arnold",
+            "description": "./data/experience/35.txt",
+            "job_title": "VP Delivery Manager- Strategy - Retail and Corporate Banking",
+            "name": "Joshua (CPM, CSSGB, SMC, SFC) Arnold",
+            "pfp": "./data/PFP/35.jpeg"
+        },
+        {
+            "id": "36",
+            "profile": "https://www.linkedin.com/in/jason-deville",
+            "description": "./data/experience/36.txt",
+            "job_title": "Developer",
+            "name": "Jason Deville",
+            "pfp": "./data/PFP/36.jpeg"
+        },
+        {
+            "id": "37",
+            "profile": "https://www.linkedin.com/in/jacqueline-ann-rimmer-550477104",
+            "description": "./data/experience/37.txt",
+            "job_title": "Senior Project Manager",
+            "name": "Jacqueline Ann Rimmer",
+            "pfp": "./data/PFP/37.jpeg"
+        },
+        {
+            "id": "38",
+            "profile": "https://www.linkedin.com/in/williamherridge",
+            "description": "./data/experience/38.txt",
+            "job_title": "Senior Industry Consultant",
+            "name": "William Herridge",
+            "pfp": "./data/PFP/38.jpeg"
+        },
+        {
+            "id": "39",
+            "profile": "https://www.linkedin.com/in/matthewhughesee",
+            "description": "./data/experience/39.txt",
+            "job_title": "Solutions Delivery Consultant",
+            "name": "Matthew Hughes",
+            "pfp": "./data/PFP/39.jpeg"
+        },
+        {
+            "id": "40",
+            "profile": "https://www.linkedin.com/in/stephanie-camargo-57ab2314b",
+            "description": "./data/experience/40.txt",
+            "job_title": "Senior Business Analyst",
+            "name": "Stephanie Camargo",
+            "pfp": "./data/PFP/40.jpeg"
+        },
+        {
+            "id": "41",
+            "profile": "https://www.linkedin.com/in/maria-rojas-87845720",
+            "description": "./data/experience/41.txt",
+            "job_title": "Agile Project Manager",
+            "name": "Maria Rojas",
+            "pfp": "./data/PFP/41.jpeg"
+        },
+        {
+            "id": "42",
+            "profile": "https://www.linkedin.com/in/stevemoser",
+            "description": "./data/experience/42.txt",
+            "job_title": "Technical Product Design Analyst",
+            "name": "Steve Moser",
+            "pfp": "./data/PFP/42.jpeg"
+        },
+        {
+            "id": "43",
+            "profile": "https://www.linkedin.com/in/matthew-rubertone-348a2553",
+            "description": "./data/experience/43.txt",
+            "job_title": "Senior Developer",
+            "name": "Matthew Rubertone",
+            "pfp": "./data/PFP/43.jpeg"
+        },
+        {
+            "id": "44",
+            "profile": "https://www.linkedin.com/in/shayne-cassidy",
+            "description": "./data/experience/44.txt",
+            "job_title": "Senior Software Engineer",
+            "name": "Shayne Cassidy",
+            "pfp": "./data/PFP/44.jpeg"
+        },
+        {
+            "id": "45",
+            "profile": "https://www.linkedin.com/in/brianoktavec",
+            "description": "./data/experience/45.txt",
+            "job_title": "Software Engineer II",
+            "name": "Brian Oktavec",
+            "pfp": "./data/PFP/45.jpeg"
+        },
+        {
+            "id": "46",
+            "profile": "https://www.linkedin.com/in/thomas-burke1",
+            "description": "./data/experience/46.txt",
+            "job_title": "Programme and Portfolio Management Officer",
+            "name": "Tom Burke",
+            "pfp": "./data/PFP/46.jpeg"
+        },
+        {
+            "id": "47",
+            "profile": "https://www.linkedin.com/in/jacobrose89",
+            "description": "./data/experience/47.txt",
+            "job_title": "Agile Project Manager",
+            "name": "Jacob Rose",
+            "pfp": "./data/PFP/47.jpeg"
+        },
+        {
+            "id": "48",
+            "profile": "https://www.linkedin.com/in/rachel-utter-phr-24334ba1",
+            "description": "./data/experience/48.txt",
+            "job_title": "People Specialist",
+            "name": "Rachel Utter, PHR",
+            "pfp": "./data/PFP/48.jpeg"
+        },
+        {
+            "id": "49",
+            "profile": "https://www.linkedin.com/in/annabjordan",
+            "description": "./data/experience/49.txt",
+            "job_title": "Lead Product Strategist",
+            "name": "Anna Jordan (AJ) Romanelli",
+            "pfp": "./data/PFP/49.jpeg"
+        },
+        {
+            "id": "50",
+            "profile": "https://www.linkedin.com/in/stephanie-joyce-770a901b",
+            "description": "./data/experience/50.txt",
+            "job_title": "Senior Consultant",
+            "name": "Stephanie Joyce",
+            "pfp": "./data/PFP/50.jpeg"
+        },
+        {
+            "id": "51",
+            "profile": "https://www.linkedin.com/in/alexandra-lozano",
+            "description": "./data/experience/51.txt",
+            "job_title": "Senior Programme and Portfolio Management Officer",
+            "name": "Alexandra L.",
+            "pfp": "./data/PFP/51.jpeg"
+        },
+        {
+            "id": "52",
+            "profile": "https://www.linkedin.com/in/mattbhaag",
+            "description": "./data/experience/52.txt",
+            "job_title": "Pickleball Instructor (part-time)",
+            "name": "Matt Haag",
+            "pfp": "./data/PFP/52.jpeg"
+        },
+        {
+            "id": "53",
+            "profile": "https://www.linkedin.com/in/chaffeesteve",
+            "description": "./data/experience/53.txt",
+            "job_title": "Connected Mobility and IIoT Consultant - Transportation, Logistics and Manufacturing",
+            "name": "Steve Chaffee",
+            "pfp": "./data/PFP/53.jpeg"
+        },
+        {
+            "id": "54",
+            "profile": "https://www.linkedin.com/in/gildas-dongmo-72b371144",
+            "description": "./data/experience/54.txt",
+            "job_title": "Engineer Consultant",
+            "name": "Gildas DONGMO",
+            "pfp": "./data/PFP/54.jpeg"
+        },
+        {
+            "id": "55",
+            "profile": "https://www.linkedin.com/in/alan-schmitt-2037311b1",
+            "description": "./data/experience/55.txt",
+            "job_title": "Associate Engineering Consultant",
+            "name": "Alan Schmitt",
+            "pfp": "./data/PFP/55.jpeg"
+        },
+        {
+            "id": "56",
+            "profile": "https://www.linkedin.com/in/catherine-golding-921377111",
+            "description": "./data/experience/56.txt",
+            "job_title": "Senior Project Management Consultant",
+            "name": "Catherine Golding",
+            "pfp": "./data/PFP/56.jpeg"
+        },
+        {
+            "id": "57",
+            "profile": "https://www.linkedin.com/in/majorbottoms",
+            "description": "./data/experience/57.txt",
+            "job_title": "Senior Research Consultant",
+            "name": "Major Bottoms Jr",
+            "pfp": "./data/PFP/57.jpeg"
+        },
+        {
+            "id": "58",
+            "profile": "https://www.linkedin.com/in/jtkeller2",
+            "description": "./data/experience/58.txt",
+            "job_title": "Senior Lead Software Engineer",
+            "name": "James Keller",
+            "pfp": "./data/PFP/58.jpeg"
+        },
+        {
+            "id": "59",
+            "profile": "https://www.linkedin.com/in/american-fabio2019",
+            "description": "./data/experience/59.txt",
+            "job_title": "Senior Business Analyst",
+            "name": "Fabio Americano",
+            "pfp": "./data/PFP/59.jpeg"
+        },
+        {
+            "id": "60",
+            "profile": "https://www.linkedin.com/in/ejohn3519",
+            "description": "./data/experience/60.txt",
+            "job_title": "Software Engineering Consultant",
+            "name": "Eric Johnson",
+            "pfp": "./data/PFP/60.jpeg"
+        },
+        {
+            "id": "61",
+            "profile": "https://www.linkedin.com/in/brady-lowe-b43b58a1",
+            "description": "./data/experience/61.txt",
+            "job_title": "Technical Lead",
+            "name": "Brady Lowe",
+            "pfp": "./data/PFP/61.jpeg"
+        },
+        {
+            "id": "62",
+            "profile": "https://www.linkedin.com/in/belalbayaa",
+            "description": "./data/experience/62.txt",
+            "job_title": "CloudOps Manager",
+            "name": "Belal Bayaa",
+            "pfp": "./data/PFP/62.jpeg"
+        },
+        {
+            "id": "63",
+            "profile": "https://www.linkedin.com/in/man-in-motion",
+            "description": "./data/experience/63.txt",
+            "job_title": "Delivery Partner (3D Technical Artist)",
+            "name": "Luke Tiday",
+            "pfp": "./data/PFP/63.jpeg"
+        },
+        {
+            "id": "64",
+            "profile": "https://www.linkedin.com/in/fullerfred",
+            "description": "./data/experience/64.txt",
+            "job_title": "Global Head of Banking and Capital Markets Sales",
+            "name": "Fred Fuller",
+            "pfp": "./data/PFP/64.jpeg"
+        },
+        {
+            "id": "65",
+            "profile": "https://www.linkedin.com/in/melissataddonio",
+            "description": "./data/experience/65.txt",
+            "job_title": "Senior Product Designer",
+            "name": "Melissa Taddonio",
+            "pfp": "./data/PFP/65.jpeg"
+        },
+        {
+            "id": "66",
+            "profile": "https://www.linkedin.com/in/valgraham",
+            "description": "./data/experience/66.txt",
+            "job_title": "Agile Project Manager",
+            "name": "Valerie Graham, PMP, CSM, MPM",
+            "pfp": "./data/PFP/66.jpeg"
+        },
+        {
+            "id": "67",
+            "profile": "https://www.linkedin.com/in/milena-pagovska-96896772",
+            "description": "./data/experience/67.txt",
+            "job_title": "Senior Business Analyst",
+            "name": "Milena Pagovska",
+            "pfp": "./data/PFP/67.jpeg"
+        },
+        {
+            "id": "68",
+            "profile": "https://www.linkedin.com/in/ivancolumbich",
+            "description": "./data/experience/68.txt",
+            "job_title": "Project Delivery Manager",
+            "name": "Iv\u00e1n Columbich",
+            "pfp": "./data/PFP/68.jpeg"
+        },
+        {
+            "id": "69",
+            "profile": "https://www.linkedin.com/in/rodrigo-gonzalez-b5962573",
+            "description": "./data/experience/69.txt",
+            "job_title": "Senior Developer",
+            "name": "Rodrigo Gonzalez",
+            "pfp": "./data/PFP/69.jpeg"
+        },
+        {
+            "id": "70",
+            "profile": "https://www.linkedin.com/in/ben-hunter-aa2b4714",
+            "description": "./data/experience/70.txt",
+            "job_title": "Cloud Architect",
+            "name": "Ben Hunter",
+            "pfp": "./data/PFP/70.jpeg"
+        },
+        {
+            "id": "71",
+            "profile": "https://www.linkedin.com/in/jonathanchap",
+            "description": "./data/experience/71.txt",
+            "job_title": "Senior Business Analyst",
+            "name": "Jonathan Chap",
+            "pfp": "./data/PFP/71.jpeg"
+        },
+        {
+            "id": "72",
+            "profile": "https://www.linkedin.com/in/mkezmkez",
+            "description": "./data/experience/72.txt",
+            "job_title": "Marketing Developer",
+            "name": "Mike Farias",
+            "pfp": "./data/PFP/72.jpeg"
+        },
+        {
+            "id": "73",
+            "profile": "https://www.linkedin.com/in/shaun-bruner-200b415",
+            "description": "./data/experience/73.txt",
+            "job_title": "Director",
+            "name": "Shaun Bruner",
+            "pfp": "./data/PFP/73.jpeg"
+        },
+        {
+            "id": "74",
+            "profile": "https://www.linkedin.com/in/john-scott-64633a36",
+            "description": "./data/experience/74.txt",
+            "job_title": "Industry Consultant - Financial Services & Payments",
+            "name": "John Scott",
+            "pfp": "./data/PFP/74.jpeg"
+        },
+        {
+            "id": "75",
+            "profile": "https://www.linkedin.com/in/gbrandondennis",
+            "description": "./data/experience/75.txt",
+            "job_title": "Sr Consultant",
+            "name": "Brandon Dennis",
+            "pfp": "./data/PFP/75.jpeg"
+        },
+        {
+            "id": "76",
+            "profile": "https://www.linkedin.com/in/bhamlett",
+            "description": "./data/experience/76.txt",
+            "job_title": "Senior Delivery Manager",
+            "name": "Brian Hamlett",
+            "pfp": "./data/PFP/76.jpeg"
+        },
+        {
+            "id": "77",
+            "profile": "https://www.linkedin.com/in/rjsalicco",
+            "description": "./data/experience/77.txt",
+            "job_title": "Senior Architect",
+            "name": "R.J. (Robert) Salicco",
+            "pfp": "./data/PFP/77.jpeg"
+        },
+        {
+            "id": "78",
+            "profile": "https://www.linkedin.com/in/elias-mills-7a6a711b4",
+            "description": "./data/experience/78.txt",
+            "job_title": "Senior Data Scientist",
+            "name": "Elias Mills",
+            "pfp": "./data/PFP/78.jpeg"
+        },
+        {
+            "id": "79",
+            "profile": "https://www.linkedin.com/in/laurenobrienit",
+            "description": "./data/experience/79.txt",
+            "job_title": "Owner | Head Writer",
+            "name": "Lauren O'Brien",
+            "pfp": "./data/PFP/79.jpeg"
+        },
+        {
+            "id": "80",
+            "profile": "https://www.linkedin.com/in/marcus-leomartinz-b4620b166",
+            "description": "./data/experience/80.txt",
+            "job_title": "Senior Business Consultant",
+            "name": "Marcus Leomartinz",
+            "pfp": "./data/PFP/80.jpeg"
+        },
+        {
+            "id": "81",
+            "profile": "https://www.linkedin.com/in/fuadatasoy",
+            "description": "./data/experience/81.txt",
+            "job_title": "Software Quality Assurance Tester",
+            "name": "Fuad Atasoy",
+            "pfp": "./data/PFP/81.jpeg"
+        },
+        {
+            "id": "82",
+            "profile": "https://www.linkedin.com/in/kelly-shaw-3bb76a120",
+            "description": "./data/experience/82.txt",
+            "job_title": "Engineering Consultant",
+            "name": "Kelly Shaw",
+            "pfp": "./data/PFP/82.jpeg"
+        },
+        {
+            "id": "83",
+            "profile": "https://www.linkedin.com/in/dugstu",
+            "description": "./data/experience/83.txt",
+            "job_title": "Principal Product Strategist",
+            "name": "Douglas Stuart",
+            "pfp": "./data/PFP/83.jpeg"
+        },
+        {
+            "id": "84",
+            "profile": "https://www.linkedin.com/in/adam-bridgewater",
+            "description": "./data/experience/84.txt",
+            "job_title": "UX Lead",
+            "name": "Adam Bridgewater",
+            "pfp": "./data/PFP/84.jpeg"
+        },
+        {
+            "id": "85",
+            "profile": "https://www.linkedin.com/in/angelena-ward",
+            "description": "./data/experience/85.txt",
+            "job_title": "Senior UX Designer",
+            "name": "Angelena Ward",
+            "pfp": "./data/PFP/85.jpeg"
+        },
+        {
+            "id": "86",
+            "profile": "https://www.linkedin.com/in/michaelc-andrews",
+            "description": "./data/experience/86.txt",
+            "job_title": "Senior Visual Designer",
+            "name": "Michael Andrews",
+            "pfp": "./data/PFP/86.jpeg"
+        },
+        {
+            "id": "87",
+            "profile": "https://www.linkedin.com/in/jorge-luis-quintero-gonzalez-a899349b",
+            "description": "./data/experience/87.txt",
+            "job_title": "Senior Software Engineer",
+            "name": "Jorge Luis Quintero Gonzalez",
+            "pfp": "./data/PFP/87.jpeg"
+        },
+        {
+            "id": "88",
+            "profile": "https://www.linkedin.com/in/ethan-collins-b46124196",
+            "description": "./data/experience/88.txt",
+            "job_title": "Software Engineer",
+            "name": "Ethan Collins",
+            "pfp": "./data/PFP/88.jpeg"
+        },
+        {
+            "id": "89",
+            "profile": "https://www.linkedin.com/in/nainika-rajesh-064991227",
+            "description": "./data/experience/89.txt",
+            "job_title": "Developer",
+            "name": "Nainika Rajesh",
+            "pfp": "./data/PFP/89.jpeg"
+        },
+        {
+            "id": "90",
+            "profile": "https://www.linkedin.com/in/abengtson",
+            "description": "./data/experience/90.txt",
+            "job_title": "Technical Artist",
+            "name": "Aaron Bengtson",
+            "pfp": "./data/PFP/90.jpeg"
+        },
+        {
+            "id": "91",
+            "profile": "https://www.linkedin.com/in/andrew-mcguire-a47a49190",
+            "description": "./data/experience/91.txt",
+            "job_title": "Sr DecSecOps",
+            "name": "Andrew McGuire",
+            "pfp": "./data/PFP/91.jpeg"
+        },
+        {
+            "id": "92",
+            "profile": "https://www.linkedin.com/in/kariellsworth",
+            "description": "./data/experience/92.txt",
+            "job_title": "AR/AP Manager",
+            "name": "Kari Ellsworth",
+            "pfp": "./data/PFP/92.jpeg"
+        },
+        {
+            "id": "93",
+            "profile": "https://www.linkedin.com/in/lukerbs",
+            "description": "./data/experience/93.txt",
+            "job_title": "Senior Data Scientist",
+            "name": "Luke Kerbs",
+            "pfp": "./data/PFP/93.jpeg"
+        },
+        {
+            "id": "94",
+            "profile": "https://www.linkedin.com/in/adam-hodson-978994227",
+            "description": "./data/experience/94.txt",
+            "job_title": "Insurance Consultant",
+            "name": "Adam Hodson",
+            "pfp": "./data/PFP/94.jpeg"
+        }
+    ]
+}
