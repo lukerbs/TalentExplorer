@@ -1,5 +1,6 @@
 # Project Specific
 flask-material-ui/public/photos/
+data/career_summary/*.txt
 data/experience/*.txt
 data/PFP/*.jpeg
 data/PFP/*.png

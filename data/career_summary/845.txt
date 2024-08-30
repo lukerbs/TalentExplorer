@@ -1,5 +1,0 @@
-The candidate has accumulated over 11 years of experience in the field of Quality Assurance and Testing. They have held various positions including Performance Test Engineer, Test Consultant, Senior QA Engineer, Business Analyst/Scrum Master, QA Tester, and QA Team Lead. 
-
-In their current role as a Performance Test Engineer at Endava, they are responsible for gathering and interpreting performance test requirements, creating performance test plans, designing, developing, executing, and analyzing performance tests for complex applications and systems. They specialize in application performance testing and analysis using tools like JMeter. 
-
-Throughout their career, the candidate has demonstrated proficiency in creating test plans, writing test cases, conducting manual and automated testing of web applications and desktop applications, and collaborating with development teams to ensure product quality. They have experience working with various platforms such as Windows, MacOS, iOS, and Android, and possess strong communication skills in coordinating and leading QA teams.

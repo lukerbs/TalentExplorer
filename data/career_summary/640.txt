@@ -1,5 +1,0 @@
-The candidate has a total of 2 years of professional experience, with the most recent position being as an AM Engineer at Endava for 1 year and 8 months. In this role, they specialize in working with databases, C#, .NET Framework, .NET Core, Microsoft Azure, ASP.NET Core, and Microsoft SQL Server. Their responsibilities likely involve software development, maintenance, and integration within the given technology stack.
-
-Prior to their current role, the candidate worked as a Junior AM Engineer for 4 months. Additionally, they have completed a 6-month internship as a Digital Transformation Intern at A1 Makedonija. These experiences suggest a focus on gaining practical knowledge in software development, digital transformation, and related technologies.
-
-With exposure to industries such as IT, software development, and digital transformation, the candidate has honed core skills in programming languages and frameworks essential for backend development. Their tenure at Endava and progression from an intern to a full-time role showcase their growth and potential within the field, indicating a track record of continuous learning and professional development.

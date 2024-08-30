@@ -1,5 +1,0 @@
-The candidate has been working as a Front-end Developer at Endava in Rosario, Santa Fe, Argentina since April 2022. With a total of 2 years and 2 months of experience in front-end development, they specialize in TypeScript, JavaScript, responsive web design, web applications, and Cascading Style Sheets (CSS).
-
-In their role, the candidate focuses on front-end development tasks such as designing and coding user interfaces, implementing interactive features, and ensuring the responsiveness of web applications. Their expertise in TypeScript and JavaScript allows them to create dynamic and functional web experiences, while their proficiency in CSS enables them to style and layout web content effectively.
-
-Throughout their career at Endava, the candidate has successfully contributed to the development of various web projects, demonstrating their ability to collaborate with team members, meet project deadlines, and deliver high-quality front-end solutions. Their experience in front-end development and their range of skills make them a valuable asset in creating visually appealing and user-friendly web applications.
