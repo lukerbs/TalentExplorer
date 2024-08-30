@@ -1,4 +1,5 @@
 # Project Specific
+flask-material-ui/public/photos/
 data/experience/*.txt
 data/PFP/*.jpeg
 data/PFP/*.png
